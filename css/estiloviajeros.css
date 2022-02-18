@@ -1,0 +1,115 @@
+* {
+    margin: 1%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.header__main {
+    background-image: url(https://nuestroclima.com/wp-content/uploads/2018/08/Travelin-1.png);
+    background-repeat: no repeat;
+    background-size: cover;
+    height: 40rem;
+}
+.navegable{
+    background-color: linen;
+    height: 7rem;
+
+}
+    
+.item {
+    display: inline-block;
+    align-items:center;
+    font-size: 1.2rem;
+    margin-inline-start: 1rem;
+    padding: 3rem;
+    width: 13rem;
+    list-style: none;
+    font-weight:lighter;
+}
+.parrafo {
+    background-color: linen;
+}
+.titulo {
+    color:black;
+    font-size: 5rem;
+    font-weight:bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:left;    
+    font-variant: small-caps;
+}
+.subtitulo{
+    font-size: 2rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:  black;
+    font-variant:small-caps;
+    text-align:center;
+    padding-right: 2rem;
+}
+.parrafo{
+    font-size: 1rem;
+    padding:1rem;
+    
+}
+.fin {
+    background-color:moccasin;
+}
+.fin__uno {
+    font-size: 1.2rem;
+}
+.final__mapita {
+    font-size: 1.2rem;
+}
+.mapita {
+    align-items:flex-end;
+}
+
+/*QuienesSomos*/
+
+.headeruno {
+    background-color:   hsl(143, 69%, 75%);
+}
+.conocenos {
+    font-size: 2rem;
+    text-align:left;
+}
+.personas {
+    list-style: none;
+    display: inline-block;
+    font-family: cursive;
+    text-align:end;
+}
+.img {
+    display:inline-block;
+}
+.presentacion{
+    display: inline-block;
+    font-family: cursive;
+    font-size: 0.8rem;
+}
+
+
+/*Curiosidades*/
+
+.header__curiosidades {
+    background-color: khaki;
+}
+.texto__uno {
+    font-size: 1.5rem;
+}
+
+/* A tu medida */
+.header__proyectos {
+    background-image: url(https://pbs.twimg.com/media/EmZov9FXEAIyyXl.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lista {
+    color:black;
+}
+
+.formulario{
+    background-color: rgb(120, 102, 133);
+    border: 3px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
